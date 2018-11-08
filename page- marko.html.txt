@@ -1,0 +1,33 @@
+<head>
+  
+  <link rel="canonical" href="ljekovito bilje" />
+  
+  <title>ljekovita biljka - timijan(thymus vulgaris) - budite zdraviji od drena</title>
+  <meta name="description" content="otkrijte ljekovito bilje domaæih travnjaka - prirodno, ekološki. pronaðite svoj recept!" />
+  
+  
+</head>
+
+<body>
+  
+  <h1>ljekovito bilje</h1>
+  
+  <h2>matiænjak, timijan, gospina trava, ne èekajte zdravlje
+</h2>
+  <p>ljekovito bilje - koju biljku odabrati?
+s nama ne možete pogriješiti
+timijan, gospina trava te matiænjak su ljekovito bilje poznato stoljeæima, 
+saznajte koja ljekovita biljka ima kakva prirodna ljekovita svojstva u nastavku ili nam se obratite s punim povjerenjem
+   </p>
+  
+  <img src="/slika.png" alt="ljekovito bilje: timijan, gospina trava matiænjak " />
+  
+  <h2>naèini primjene</h2>
+  <p>kao zaæin ili u èaju, ne možete pogriješiti</p>
+  
+  <h2>kako do bilja</h2>
+  <p>obratite se nama</p>
+  <br><br>
+  <a href="mailto:email@brewpages.com">UNIJETI</a>
+  
+</body>
